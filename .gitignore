@@ -1,0 +1,8 @@
+carvana/test
+carvana/test_hq
+carvana/train
+carvana/train_hq
+carvana/train_masks
+
+*.pth
+__pycache__
